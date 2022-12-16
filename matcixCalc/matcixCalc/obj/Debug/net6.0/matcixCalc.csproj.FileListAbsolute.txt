@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\C#\калькулятор матриць\matcixCalc\matcixCalc\bin\Debug\net6.0\matcixCalc.exe
+C:\Users\ADMIN\Desktop\C#\калькулятор матриць\matcixCalc\matcixCalc\bin\Debug\net6.0\matcixCalc.deps.json
+C:\Users\ADMIN\Desktop\C#\калькулятор матриць\matcixCalc\matcixCalc\bin\Debug\net6.0\matcixCalc.runtimeconfig.json
+C:\Users\ADMIN\Desktop\C#\калькулятор матриць\matcixCalc\matcixCalc\bin\Debug\net6.0\matcixCalc.dll
+C:\Users\ADMIN\Desktop\C#\калькулятор матриць\matcixCalc\matcixCalc\bin\Debug\net6.0\matcixCalc.pdb
+C:\Users\ADMIN\Desktop\C#\калькулятор матриць\matcixCalc\matcixCalc\obj\Debug\net6.0\matcixCalc.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\C#\калькулятор матриць\matcixCalc\matcixCalc\obj\Debug\net6.0\matcixCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\C#\калькулятор матриць\matcixCalc\matcixCalc\obj\Debug\net6.0\matcixCalc.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\C#\калькулятор матриць\matcixCalc\matcixCalc\obj\Debug\net6.0\matcixCalc.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\C#\калькулятор матриць\matcixCalc\matcixCalc\obj\Debug\net6.0\matcixCalc.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\C#\калькулятор матриць\matcixCalc\matcixCalc\obj\Debug\net6.0\matcixCalc.dll
+C:\Users\ADMIN\Desktop\C#\калькулятор матриць\matcixCalc\matcixCalc\obj\Debug\net6.0\refint\matcixCalc.dll
+C:\Users\ADMIN\Desktop\C#\калькулятор матриць\matcixCalc\matcixCalc\obj\Debug\net6.0\matcixCalc.pdb
+C:\Users\ADMIN\Desktop\C#\калькулятор матриць\matcixCalc\matcixCalc\obj\Debug\net6.0\matcixCalc.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\C#\калькулятор матриць\matcixCalc\matcixCalc\obj\Debug\net6.0\ref\matcixCalc.dll
